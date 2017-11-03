@@ -1,5 +1,7 @@
 # step.log
 
-[source](https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1)
+## A
 
-ng set warnings.typescriptMismatch=false
+### B
+
+#### Building An Angular 5 Project with Bootstrap 4 and Firebase

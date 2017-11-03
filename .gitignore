@@ -43,6 +43,5 @@ Thumbs.db
 
 # secur_staff_PGA68
 /src/environments/environment.*
-
 /src/environments/environment.prod.ts
 /src/environments/environment.ts
